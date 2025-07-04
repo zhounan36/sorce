@@ -49,6 +49,10 @@ class ZomboidBackupManager:
         # 刷新备份列表
         self.refresh_backup_list()
     
+        # 如果配置中启用了自动备份，则自动启动
+        if self.config["auto_backup_enabled"]:
+            self.start_auto_backup()
+    
     def get_resource_path(relative_path):
         """获取资源文件路径，兼容打包后的exe"""
         try:
