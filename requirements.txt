@@ -1,0 +1,12 @@
+# Zomboid 备份管理器依赖
+# 注意：tkinter 通常随 Python 一起安装，不需要单独安装
+
+# 所有依赖都是 Python 标准库的一部分：
+# - tkinter (GUI)
+# - os (文件操作)
+# - shutil (文件复制)
+# - threading (多线程)
+# - datetime (时间处理)
+# - pathlib (路径处理)
+# - json (配置文件)
+# - argparse (命令行参数)

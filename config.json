@@ -1,0 +1,7 @@
+{
+  "source_path": "C:\\Users\\Administrator\\Zomboid\\Saves\\Sandbox",
+  "backup_root": "D:\\backup",
+  "max_backups": 5,
+  "auto_backup_enabled": false,
+  "auto_backup_interval": 2
+}
