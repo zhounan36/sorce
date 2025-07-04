@@ -14,13 +14,10 @@
 
 ## 安装和运行
 
-### 方法1: 直接运行
+### 直接运行
 ```bash
 python zomboid_backup_manager.py
 ```
-
-### 方法2: 使用批处理文件
-双击 `run_backup_manager.bat` 文件
 
 ## 使用说明
 
