@@ -5,7 +5,7 @@ a = Analysis(
     ['zomboid_backup_manager.py'],
     pathex=[],
     binaries=[],
-    datas=[('config.json', '.')],  # 包含配置文件
+    datas=[],
     hiddenimports=[],
     hookspath=[],
     hooksconfig={},
